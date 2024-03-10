@@ -1,0 +1,20 @@
+
+Câu 1. 
+Dữ liệu trong thư viện Pandas được tổ chức theo cấu trúc dữ liệu gọi là DataFrame và Series.
+
+DataFrame: Đây là cấu trúc dữ liệu chính trong Pandas, tương tự như một bảng có thể được hiểu là một tập hợp của nhiều Series. DataFrame có dạng hai chiều, tức là có hàng và cột. Mỗi cột trong DataFrame là một Series, các cột này có thể chứa dữ liệu của các kiểu dữ liệu khác nhau. DataFrame cho phép thực hiện các thao tác như lọc dữ liệu, thêm/xóa cột, thực hiện các phép tính toán trên dữ liệu.
+
+Series: Là một cấu trúc dữ liệu một chiều, tương tự như một mảng một chiều hoặc danh sách. Mỗi Series có một chỉ mục tương ứng với từng phần tử dữ liệu.
+
+Câu 2. 
+
+Một text file như CSV có thể lưu trữ dữ liệu dạng bảng bằng cách sử dụng các ký tự phân cách, thường là dấu phẩy (,) để phân tách giữa các trường và các hàng. Mỗi hàng trong file CSV thường tương ứng với một hàng trong bảng dữ liệu, và mỗi trường trong mỗi hàng tương ứng với một cột
+
+Câu 3:
+A
+
+Câu 4:
+D
+
+Câu 5:
+C
